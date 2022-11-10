@@ -1,0 +1,23 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch":"jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonyco-4u/unit-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonyco-4u/unit-tests/issues"
+  },
+  "homepage": "https://github.com/sonyco-4u/unit-tests#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
